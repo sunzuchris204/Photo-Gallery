@@ -16,7 +16,7 @@
     Ensure you are connected to the internet for the fonts to display correctly.
 
 # Contact
-    Niygena Christian
+    Niyigena Christian
     GitHub - @sunzuchris204 
     Email - sunzuchris250@gmail.com
 
