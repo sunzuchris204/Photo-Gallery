@@ -10,7 +10,10 @@
 # Navigate to the project directory
     cd Photo-Gallery
 
-
+# Challenges Directory
+    it contains both ArraysMap and stringTransform files
+    and I have managed to solve the given examples in the problem.
+    
 # Dependencies
     Google Fonts: This project uses Google Fonts, which requires an internet connection to load the fonts. 
     Ensure you are connected to the internet for the fonts to display correctly.
